@@ -13,7 +13,7 @@
 
 ## Attack - EVENT TIME LINE
 
-![Att&ck Time Line](https://raw.githubusercontent.com/mohammedshahidz/Project-winEvasion-Redteam/main/Resource/attack-time-line.png)
+![Att&ck Time Line](https://github.com/mohammedshahidz/Project-winEvasion-Redteam/blob/main/Resource/attack-time-line.png?raw=true)
 
 ### Attack and C2 Setup 
   1. [Ubuntu Server Configuration for C2 and Mail Server](https://github.com/mohammedshahidz/Project-winEvasion-Redteam/blob/main/Resource/ubuntu-server-config-for-c2%26mail-server.md)
