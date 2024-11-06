@@ -40,7 +40,7 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
 [Attack json file | download ](https://raw.githubusercontent.com/mohammedshahidz/Project-winEvasion-Redteam/main/Resource/adversary_tactics_and_techniques_for_hacking_win11-10_using_phishing_scenario.json) upload to [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) for customization or for better view.
 
 + MITRE ATT&CK®
-![MITRE ATT&CK®](https://raw.githubusercontent.com/mohammedshahidz/Project-winEvasion-Redteam/d964b8e74194f45dbec1982d6abb2ab59e2c0ec2/Resource/Adversary_Tactics_and_Techniques_for_Phishing_Scenario(3).svg)
+![MITRE ATT&CK®](https://raw.githubusercontent.com/mohammedshahidz/Project-winEvasion-Redteam/refs/heads/main/Resource/Adversary_Tactics_and_Techniques_for_Phishing_Scenario(3).svg?token=GHSAT0AAAAAAC2AE6M4AHGJ5YZDSB5MZVLKZZLLWDA)
 
 - [x] The above attack can be improvised 
 - [ ] Effort calculated:- 100 hours 🕙 in 2.5 months 📆 [on-going porject] 	`Approximate value`
